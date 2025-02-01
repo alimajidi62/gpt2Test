@@ -21,3 +21,4 @@ variables.config.json
 # Advanced Installer
 *-cache
 localPublishTarget
+py/gpt2-finetuned-resume

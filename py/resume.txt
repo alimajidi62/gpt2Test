@@ -1,0 +1,62 @@
+About the job
+Software Sr. Engineer (C++)
+
+We are searching for an experienced C++ Sr. Engineer (PAN-E) at our Panama facility.
+
+Primary Roles And Responsibilities
+
+As a Software Sr. Engineer (C++), you will assist in the development, and implementation of technology-based election solutions.
+
+You will be implementing, testing and refactoring embedded C++ applications, and assisting in the design of these applications to meet both functional and technical requirements. Within the engineering team you’ll also learn, teach, pair, review code, explore new technologies, implement best practices and help continuously improve the team in a fast-paced environment.
+
+Lead software development team’s implementations and best practices.
+Provide technical team leadership, direction, and mentoring to juniors and seniors alike.
+Lead periodic rapid refactoring that keep the applications’ code fresh, flexible and reusable.
+Responsible for analysis of current programs including performance, diagnosis and troubleshooting of problem programs, and designing solutions to problematic programming.
+Responsible for the maintenance of the development, build and deploy environment using the established toolchain, and continuous integrations tools.
+Develop, support, maintain, and enhance applications and tools using primarily C++ and C, but also Bash and Python scripts.
+Apply incisive design and exceptional coding skill to knock features off of the products' extensive and growing list of features.
+Adopt and follow team development and engineering best practices and coding standards.
+Review and repair legacy code.
+Respond promptly and professionally to bug reports.
+Work with the QA teams on defect resolution.
+
+Required Skills And Qualifications
+
+Bachelor degree in Computer Science, Engineering, or related scientific field.
+6+ years programming C++ applications.
+6+ years experience developing applications for Unix-like systems.
+Intermediate knowledge of Linux command line (Bash) and/or Python scripting.
+Ability to write well-abstracted, both structured-like and object-oriented code.
+Strong English written and spoken skills.
+
+Supporting Information
+
+Strong knowledge of C99 and C++98/03 language standards.
+Strong knowledge of C++ common idioms.
+Strong knowledge of Gang of Four’s design patterns.
+Strong knowledge of SOLID principles.
+Basic knowledge of CMake build system.
+Strong experience with SCRUM, Kanban, XP, or similar development frameworks.
+Strong experience with test driven development (TDD) using popular frameworks like Google Test and Google Mock.
+Strong experience in debugging and profiling C++ applications using gdb and valgrind.
+Intermediate experience with various programming languages and understanding of the benefits and adequate use of different programming paradigms (structured, object-oriented and functional programming).
+
+Personal Skills And Qualities
+
+Self-motivated with strong team spirit.
+Good written, verbal and presentation skills, with the ability to communicate complex technical issues in terms clearly understood by technical audiences.
+Strong analytical and critical thinking skills.
+Capable of work efficiently in a fast-paced environment.
+End-user oriented.
+Attention to details.
+Curiosity and passionate about new technology.
+Ability to travel including international travels.
+
+Requisition #: req430
+
+Employment type: Regular Employee
+
+Main Location: Panama City
+
+Our company provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.
