@@ -22,4 +22,6 @@ variables.config.json
 *-cache
 localPublishTarget
 py/gpt2-finetuned-resume
+py/results
+py/gpt2-finetuned-resume-qa
 py/gpt2-finetuned-resume-qa
